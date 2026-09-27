@@ -351,10 +351,9 @@ The main goal of this project is to practice:
 
 ## 👨‍💻 Author
 
-**Alikhan**
+**Iskakov Alikhan**
 
 Java / IT Student
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
